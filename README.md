@@ -1,2 +1,2 @@
-# Test_task_tutu.tu_Shvetsova
+# Test_task_tutu.ru_Shvetsova
 Выполнение тестового задания в компанию tutu.ru на позицию младшего аналитика
